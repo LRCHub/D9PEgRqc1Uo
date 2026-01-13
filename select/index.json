@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ベーコンエピ",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-01-13T21:02:49.627088Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベーコンエピ",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_ベーコンエピ_TOMOO.txt"
+    }
+  ]
+}
